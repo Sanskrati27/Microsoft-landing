@@ -1,4 +1,4 @@
-Microsoft Landing Page Clone  
+## Microsoft Landing Page Clone  
 
 🚀 A responsive **Microsoft landing page clone** built using **Tailwind CSS**. This project replicates the clean and modern design of Microsoft's homepage with a fully responsive layout.  
 
@@ -43,6 +43,3 @@ Feel free to fork this repository and submit a pull request if you have any impr
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
 
----
-
-Let me know if you need any modifications! 🚀🔥
